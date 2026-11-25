@@ -1,4 +1,4 @@
-<div align="center">
+/' <div align="center">
 
 <img src="docs/media/banner.webp" alt="The Browsing of Isaac" width="100%">
 
